@@ -75,11 +75,14 @@ Sangivalasa 531162, Bheemunipatnam mandal, Visakhapatnam Dist.
 ## 📸 Screenshots
 *(Make sure these filenames match your uploaded images exactly)*
 
-![Parking Slots](parking-slots.jpeg)
-![Car 8 at Slot 3](car-8-parking-slot-3.jpeg)
-![Car 10 at Slot 7](parking-slot-7.jpeg)
-![Car 3 at Slot 2](parking-slot-2.jpeg)
-![Error Message](car-already-parked.jpeg)
+1.![parking slots](https://github.com/user-attachments/assets/e005a5a1-2d0b-4395-8ac3-3673e4334fb9)
+2.![parking slot 2](https://github.com/user-attachments/assets/0f44dd77-048a-4522-b634-2396fdfa1c0f)
+3.![car 8 parking slot 3](https://github.com/user-attachments/assets/cec6fb7b-0b56-4da4-8eee-3fb17c926e76)
+4.<img width="1130" height="879" alt="car-removed-slot-3" src="https://github.com/user-attachments/assets/d08a3b66-03a3-4f5f-8e70-0e5b9f277ea3" />
+5.<img width="1128" height="892" alt="car already parked" src="https://github.com/user-attachments/assets/3557abe3-d35a-4662-9ef6-9c45bd2456bc" />
+6 ![parking slot 7](https://github.com/user-attachments/assets/9c5e2dc6-1d34-477b-b53d-6ddd1805ecfc)
+
+
 
 ## 📄 License
 Academic Project
