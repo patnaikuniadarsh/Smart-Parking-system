@@ -43,6 +43,13 @@ This system provides:
 | 5 | Slot 0, 8 | Further outward |
 | 6 | Slot 9 | Last slot |
 
+## Project Output Screens
+ 1. ![parking slot 2](https://github.com/user-attachments/assets/00fb9d19-1722-426d-95d5-a47fd777229a)
+2. ![car 8 parking slot 3](https://github.com/user-attachments/assets/c5bc2db2-c699-4f3f-9d6e-acecd4064822)
+3. ![parking slots](https://github.com/user-attachments/assets/fe3aedca-1473-456f-bd11-3a9d349e6b73)
+4. <img width="1128" height="892" alt="car already parked" src="https://github.com/user-attachments/assets/877e10f4-771c-4abd-bfd1-16a7bda2de1a" />
+5. <img width="1130" height="879" alt="car removed" src="https://github.com/user-attachments/assets/6141b6de-d986-48b7-8ce3-967577d8c40a" />
+
 ## 👨‍💻 GitHub Repository Owner
 
 | | |
