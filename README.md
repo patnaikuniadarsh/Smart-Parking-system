@@ -48,9 +48,8 @@ This system provides:
 | | |
 |---|---|
 | <span style="color: #FF5733">**Name**</span> | <span style="color: #FF5733">**PATNAIKUNI ADARSH**</span> |
-| <span style="color: #3498DB">**Role**</span> | <span style="color: #3498DB">**Project Lead & Developer**</span> |
-| <span style="color: #2ECC71">**GitHub**</span> | <span style="color: #2ECC71">**github.com/patnaikuniadarsh**</span> |
-| <span style="color: #9B59B6">**Email**</span> | <span style="color: #9B59B6">**patnaikuniadarsh@anits.edu.in**</span> |
+| <span style="color: #2ECC71">**Roll number**</span> | <span style="color: #2ECC71">**A24126510152**</span> |
+| <span style="color: #3498DB">**Role**</span> | <span style="color: #3498DB">**Engneering student & Data analyst**</span> |
 
 ## Team Members
 
